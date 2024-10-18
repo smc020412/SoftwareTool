@@ -7,7 +7,7 @@ git commit -m "message"<br/>
   대기상태에 있던 파일을 commit에 올려둔다<br/>
 git push<br/>
   그리고 main brach에 업로드 됨<br/>
-<br/>
+  
 2. 다운로드 하는법<br/>
 git fetch<br/>
   repository에 있는 변경사항을 불러온뒤<br/>
